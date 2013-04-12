@@ -1,0 +1,9 @@
+Test Case 1:  Test map loading with no header info
+
+Test Case 2:  Test map loading when file contains a blank line
+
+Test Case 3:  Load map with cell info out of bounds
+
+Test Case 4:  Test map loading with file which is missing a hash bar separator
+
+Test Case 5:  Load map with bad cell information
